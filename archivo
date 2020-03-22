@@ -1,0 +1,4 @@
+1. npm init
+2. Isntalar npm install express --save
+3. https://handlebarsjs.com/ se usa para dar un sitio dimanico
+4. npm install hbs / para poder renderizar las web | utiliza expreess 
